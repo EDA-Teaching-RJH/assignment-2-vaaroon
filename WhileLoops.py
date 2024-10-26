@@ -1,6 +1,6 @@
 ### Part Two -- your code goes here. 
 import random 
-randomnumber = random.randint(1, 3) 
+randomnumber = random.randint(1, 100) 
 
 while True:
     guess = int(input("Guess a number between 1 and 100: ")) 
